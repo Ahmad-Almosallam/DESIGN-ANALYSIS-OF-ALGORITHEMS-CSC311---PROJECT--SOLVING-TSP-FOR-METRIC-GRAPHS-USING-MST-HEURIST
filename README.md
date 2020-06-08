@@ -1,5 +1,5 @@
 # SOLVING-TSP-FOR-METRIC-GRAPHS-USING-MST-HEURIST
-By [Ahmad Almosallam](https://github.com/Ahmad-Almosallam) and [Faisal AlDuwayhi](https://github.com/Faisal-AlDuwayhi)
+### By [Ahmad Almosallam](https://github.com/Ahmad-Almosallam) and [Faisal AlDuwayhi](https://github.com/Faisal-AlDuwayhi)
 # 1.1	Purpose 
 
 The goal of this project is to build a program that solves Travelling salesman problem using optimal solution and compare it with the approximation solution.
